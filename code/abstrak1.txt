@@ -1,0 +1,16 @@
+abstract class
+
+- sebuah kelas yang tidak dapat di instansiasi
+- kelas "abstrak"
+- mendefinisikan interface untuk kelas lain yang menjadi turunannya
+- berperan sebagai "kerangka dasar" untuk kelas turunannya
+- memiliki minimal 1 method abstract
+- digunakan dalam 'pewarisan' / inheritance untuk 'memaksakan' implementasi method abstrak yang sama  untuk semua kelas turunannya
+
+
+kenapa menggunakan kelas abstrak
+- merepresentasika ide atau konsep dasar
+- "Composition over inheritance"
+- salah satu cara menerapkan polimorphism
+- sentralisisasi logic
+- mempermudah pengerjaan tim
